@@ -1,0 +1,30 @@
+{
+  "name": "api_template_ejs",
+  "version": "1.0.0",
+  "description": "API Template EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "api_template_ejs"
+  },
+  "keywords": [
+    "API",
+    "Template",
+    "Express",
+    "JS"
+  ],
+  "author": "vicento14",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.9.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "prisma": "^5.9.1"
+  }
+}
